@@ -3,3 +3,4 @@ import time
 import lib_book as lb
 
 print("Good day & Hello STEVEN")
+lb.types("Electrical")
